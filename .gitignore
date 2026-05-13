@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+
+# Publish output
+publish/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Zip artifacts
+*.zip
